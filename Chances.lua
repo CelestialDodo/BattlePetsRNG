@@ -1,4 +1,4 @@
-{
+return {
 	["Owner"] = { Chance = 0, Rarity = Rolls.Rarity.Owner },
 	["Developer"] = { Chance = 0, Rarity = Rolls.Rarity.Developer },
 	["Test"] = { Chance = 1, Rarity = Rolls.Rarity.Common },
